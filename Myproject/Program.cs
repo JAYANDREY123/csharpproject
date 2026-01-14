@@ -1,8 +1,11 @@
+using System;
 
-clas Task1
+class Task1
 {
-    stat1c v0id Main(String[] args)
+    static void Main(string[] args)
     {
-        Console.WroteLine("Hi world'');
+        Console.WriteLine("Kamusta a Mundo!");
     }
 }
+
+
